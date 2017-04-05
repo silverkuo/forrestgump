@@ -1,0 +1,5 @@
+service bdupdate /system/bin/bluetoothdeviceserver_daemon
+    class main
+    user system
+    group system
+
